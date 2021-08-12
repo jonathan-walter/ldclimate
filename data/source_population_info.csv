@@ -1,0 +1,15 @@
+﻿Population,Latitude,Longitude,SubRegion,Region,Elevation,QuarYear,Distance,Previous,County,State,Notes,PrismMeanTemp
+BF,46.812634,-90.820414,UN,N,243,2013,1635.167083,N,Bayfield,WI,"Bayfield, WI",4.466249943
+AL,46.596701,-90.820414,UN,N,208,2011,1631.084578,N,Ashland,WI,"Ashland, WI",5.41291666
+IR,46.676214,-91.446903,UN,N,266,2013,1679.850582,N,Bayfield,WI,"Iron River, WI",4.810833454
+MN,45.042902,-93.236512,LN,N,297,NA,1801.930388,N,,MN,"Minneapolis, MN; isolated population for a long time; coordinates need confirmation!",7.74208355
+WI1,42.623166,-90.545144,LN,N,260,NA,1595.045593,N,Grant,WI,"Grant County, WI",8.582500458
+WI2,45.803381,-92.068029,LN,N,340,NA,1715.486985,N,Burnett,WI,"Burnett, WI",5.916249752
+WV1,38.37475,-80.901194,AM,S,593,2002,945.0116241,N,Nicholas,WV,"Nicholas County/Summersville, WV",10.77624989
+WV2,38.78518,-79.222876,AM,S,524,1989,796.9531975,N,Pendleton,WV,"Kiser Gap Rd Franklin, WV",10.5199995
+SWVA,37.28434082,-80.90811339,AM,S,552,2007,1013.865796,N,Giles,VA,"Wolf Creek, VA; Ksenia collected these",11.66250038
+NC1,36.449125,-76.024672,CP,S,4,1990,786.4577695,Y,Currituck,NC,"Currituck, NC; Long established coastal plain population",15.86625004
+NC2,35.250371,-75.581311,CP,S,5,1990,885.4080921,Y,Dare,NC,"Cape Hatteras, NC; Most southerly established pop. in US",17.23541641
+MA1,42.40502,-71.28713,I,I,70,1900,15.979154,Y,Middlesex,MA,"Waltham, MA; 10.0 linear miles west of Trouvelot’s house",9.504583359
+MA2,42.20739,-71.08091,I,I,96,1905,23.15617828,Y,Norfolk,MA,"Randolph, MA; 14.4 linear miles south of Trouvelot’s House",9.952500343
+NY,43.080624,-75.981274,I,I,128,1973,406.8726738,Y,Onondaga,NY,"Kirkville, NY; Dylan's backyard",8.77041626
